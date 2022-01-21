@@ -4,3 +4,4 @@ so long brother
 new line added
 
 whole change commit 1
+new change commit 2
